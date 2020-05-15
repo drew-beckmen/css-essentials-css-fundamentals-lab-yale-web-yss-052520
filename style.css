@@ -23,10 +23,8 @@ figure {
   text-align: center;
 }
 
-#featured-property {
-  text-align: center; 
-}
 #featured-property p {
+  text-align: center;
   width: 900px;
 }
 
