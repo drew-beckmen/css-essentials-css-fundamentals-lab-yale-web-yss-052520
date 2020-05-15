@@ -27,3 +27,11 @@ figure {
   text-align: center;
   width: 900px;
 }
+
+#details {
+  display: block; 
+}
+
+#details div {
+  float: left; 
+}
