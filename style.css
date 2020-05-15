@@ -15,14 +15,12 @@ nav a {
 
 }
 
-
-#featured-property {
+figure {
   text-align: center;
 }
 
-#featured-property p {
-  width: 800px;
-  justify-content: center; 
+#featured-property {
+  text-align: center;
 }
 
 #details {
