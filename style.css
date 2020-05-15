@@ -9,10 +9,10 @@ header {
 }
 
 nav a {
-  padding-left: 10px; 
-  padding-right: 10px; 
-  background-color: green; 
-  
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: green;
+
 }
 
 img {
@@ -28,10 +28,5 @@ figure {
 
 p#featured-property{
   width: 800px;
-  text-align: center; 
+  text-align: center;
 }
-
-
-
-
-
