@@ -20,9 +20,10 @@ figure {
 }
 
 #featured-property p {
+    justify-content: center;
   width: 800px;
   text-align: center;
-  justify-content: center;
+
 }
 
 #details {
