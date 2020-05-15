@@ -23,6 +23,9 @@ figure {
   text-align: center;
 }
 
+#featured-property {
+  text-align: center; 
+}
 #featured-property p {
   width: 900px;
 }
