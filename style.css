@@ -21,7 +21,7 @@ img {
 
 figure {
   text-align: center;
-} 
+}
 
 #featured-property p {
   text-align: center;
@@ -29,9 +29,12 @@ figure {
 }
 
 #details {
-  display: block; 
+  display: block;
 }
 
 #details div {
-  float: left; 
+  float: left;
+  width: 25%;
+  background-color: red;
+  text-align: center; 
 }
