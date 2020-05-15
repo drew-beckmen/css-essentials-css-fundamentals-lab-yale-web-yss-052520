@@ -27,8 +27,8 @@ figure {
   text-align: center;
   /* width: 900px;*/
   width: 50%;
-  display: block;
-  vertical-align: top; 
+  display: inline-block;;
+  vertical-align: top;
 }
 
 #details {
